@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HydraSettings">
+    <option name="hydraStorePath" value="D:\DATA\homework\云服务器组件安装\安装包\kafka\源码编译\sparkml\.hydra\idea" />
+    <option name="noOfCores" value="2" />
+    <option name="projectRoot" value="D:\DATA\homework\云服务器组件安装\安装包\kafka\源码编译\sparkml" />
+    <option name="sourcePartitioner" value="auto" />
+  </component>
+</project>
